@@ -11,6 +11,9 @@ ASSIGNMENT RULES
 /* EXERCISE 1
  Create a variable and assign to it an array containing the first 5 positive numbers.
 */
+let numberPositive = [2, 4, 6, 8, 10]
+console.log(numberPositive[0])
+console.log(numberPositive[2])
 
 /* WRITE YOUR ANSWER HERE */
 
