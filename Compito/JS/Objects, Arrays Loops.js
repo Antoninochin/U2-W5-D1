@@ -11,11 +11,11 @@ ASSIGNMENT RULES
 /* EXERCISE 1
  Create a variable and assign to it an array containing the first 5 positive numbers.
 */
+
+/* WRITE YOUR ANSWER HERE */
 let numberPositive = [2, 4, 6, 8, 10]
 console.log(numberPositive[0])
 console.log(numberPositive[2])
-
-/* WRITE YOUR ANSWER HERE */
 
 /* EXERCISE 2
  Create a variable and assign to it an object containing your name, surname, email address and age.
